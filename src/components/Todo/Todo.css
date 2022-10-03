@@ -1,10 +1,4 @@
-.todo-item {
-    display: flex;
-    flex-direction: row;
-}
-
 .todo-text {
-    color: white;
     margin-right: 30px;
 }
 
